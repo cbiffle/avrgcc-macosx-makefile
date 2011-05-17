@@ -1,0 +1,12 @@
+# Build products
+out
+src
+build
+
+# Marker files
+*.t
+localpatches
+
+# vim swapfiles
+.swp
+.*.swp
